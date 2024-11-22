@@ -1,0 +1,11 @@
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\bin\Debug\Đề 1_720_2212404_PhamKhanhLinh.exe.config
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\bin\Debug\Đề 1_720_2212404_PhamKhanhLinh.exe
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\bin\Debug\Đề 1_720_2212404_PhamKhanhLinh.pdb
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\obj\Debug\Đề 1_720_2212404_PhamKhanhLinh.csproj.AssemblyReference.cache
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\obj\Debug\Đề_1_720_2212404_PhamKhanhLinh.frmMonHoc.resources
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\obj\Debug\Đề_1_720_2212404_PhamKhanhLinh.Properties.Resources.resources
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\obj\Debug\Đề 1_720_2212404_PhamKhanhLinh.csproj.GenerateResource.cache
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\obj\Debug\Đề 1_720_2212404_PhamKhanhLinh.csproj.CoreCompileInputs.cache
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\obj\Debug\Đề 1_720_2212404_PhamKhanhLinh.exe
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\obj\Debug\Đề 1_720_2212404_PhamKhanhLinh.pdb
+Z:\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\Đề 1_720_2212404_PhamKhanhLinh\obj\Debug\Đề_1_720_2212404_PhamKhanhLinh.frmQuanLyMonHoc.resources
